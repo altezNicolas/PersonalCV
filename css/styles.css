@@ -1,0 +1,126 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    height: 100vh;
+    background-color: #EDF1D6;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+}
+header{
+    height: 276px;
+    max-width: 100%;
+    text-align: center;
+    background-color: #E6E6E6;
+    padding: 0px;
+}
+header img{
+    margin-top: 15px;
+    width: 200px;
+    height: 200px;
+}
+header h1{
+    color: #005677;
+    background-color: #C4C4C4;
+}
+h2{
+    padding-left: 15px;
+    color: #005677;
+    text-align: left;
+    background-color: #C4C4C4;
+}
+.fa-html5 {
+    color: #E34F26; /* valor hexadecimal para el color naranja */
+  }
+.fa-css3-alt{
+    color: #0000FF;
+}
+ul .fa-github{
+    color: #171515;
+}
+.fa-angular {
+    color: #B52E31;
+}
+li{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: bold;
+}
+.habilidades{
+    font-size: 30px;
+}
+span{
+    font-weight: normal;
+    font-style: normal;
+}
+footer {
+    background-color: #005677;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+footer i {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: white;
+    display: inline-block;
+    margin-right: 10px;
+    padding: 10px;
+}
+li i{
+    font-size: 32px;
+}
+footer p {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+.personal-name{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: white;
+}
+.social-media .fa-linkedin-in{
+    font-size: 20px;
+    color: #0000FF;
+}
+.social-media .fa-envelope{
+    font-size: 20px;
+    color: #B52E31;
+}
+.social-media .fa-github{
+    font-size: 20px;
+    color: #171515;
+}
+.social-media .fa-twitter{
+    font-size: 20px;
+    color: #1DA1F2
+}
+.about-me p{
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 20px;
+    font-size: 25;
+    color: black;
+}
+.personal-tastes p{
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 20px;
+    font-size: 25;
+    color: black;
+}
+.sports p {
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 20px;
+    font-size: 25;
+    color: black;
+}

@@ -1,1 +1,0 @@
-Proyecto Clase 8 : Curriculum Vitae Personal
